@@ -47,4 +47,5 @@ export default function GridPulseDemo() {
       ) : null}
     </section>
   );
+  
 }
